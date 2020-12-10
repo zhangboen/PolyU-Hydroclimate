@@ -1,4 +1,5 @@
 # 水文气候研究相关数据汇总，持续更新中
+## 1. 降水产品
 | 简称 | 名称 | 空间分辨率 | 覆盖范围 | 时间分辨率 | 时间跨度 |
 | --- | --- | --- | --- | --- | --- |
 | [APHRODITE](https://climatedataguide.ucar.edu/climate-data/aphrodite-asian-precipitation-highly-resolved-observational-data-integration-towards) | 亚洲高精度降水数据 | 25-km | 亚洲 | daily | 1951 - 2007 |
@@ -11,3 +12,11 @@
 | [ERA5-Land](https://hess.copernicus.org/articles/24/919/2020/#section6) | ERA5降水再分析数据的陆地产品 | 0.1-degree | 全球 | hourly | 1981 - present |
 | [WorldClim2](http://www.worldclim.com/version2) | 全球地表高分辨率气候数据 | 1-km | 全球 | monthly | 1970 - 2000 |
 | -- | [CRU统计降尺度中国高精度月降水产品](https://zenodo.org/record/3114194#.Xx09-jr7SUk) | 1-km | 中国 | monthly | 1901 - 2017 |
+## 2. 水文数据
+| 简称 | 名称 | 空间分辨率 | 覆盖范围 | 时间分辨率 | 时间跨度 |
+| --- | --- | --- | --- | --- | --- |
+| [GRDC](https://www.bafg.de/GRDC/EN/Home/homepage_node.html) | 全球水文监测径流数据 | 站点 | 全球 | daily/monthly | 1919 - present |
+## 3. 其它数据
+| 简称 | 名称 | 空间分辨率 | 覆盖范围 | 时间分辨率 | 时间跨度 |
+| --- | --- | --- | --- | --- | --- |
+| -- | [AVHRR地表温度产品](https://essd.copernicus.org/articles/12/3247/2020/) | 0.05-degree | 全球 | daily/monthly | 1981 - 2000 |
