@@ -10,4 +10,4 @@
 | [WFDE5](https://hess.copernicus.org/articles/24/919/2020/#section6) | bias adjusted ERA5 reanalysis data for impact studies | 0.5-degree | 全球 | hourly | 1979 - 2018 |
 | [ERA5-Land](https://hess.copernicus.org/articles/24/919/2020/#section6) | ERA5降水再分析数据的陆地产品 | 0.1-degree | 全球 | hourly | 1981 - present |
 | [WorldClim2](http://www.worldclim.com/version2) | 全球地表高分辨率气候数据 | 1-km | 全球 | monthly | 1970 - 2000 |
-| -- | [中国高精度月降水产品](https://zenodo.org/record/3114194#.Xx09-jr7SUk) | 1-km | 中国 | monthly | 1901 - 2017 |
+| -- | [CRU统计降尺度中国高精度月降水产品](https://zenodo.org/record/3114194#.Xx09-jr7SUk) | 1-km | 中国 | monthly | 1901 - 2017 |
