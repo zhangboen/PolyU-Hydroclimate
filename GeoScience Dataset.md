@@ -1,5 +1,5 @@
 # 水文气候研究相关数据汇总，持续更新中
-| 数据简称 | 数据名称 | 空间分辨率 | 覆盖范围 | 时间分辨率 | 时间跨度 |
+| 简称 | 名称 | 空间分辨率 | 覆盖范围 | 时间分辨率 | 时间跨度 |
 | --- | --- | --- | --- | --- | --- |
 | [APHRODITE](https://climatedataguide.ucar.edu/climate-data/aphrodite-asian-precipitation-highly-resolved-observational-data-integration-towards) | 亚洲高精度降水数据 | 25-km | 亚洲 | daily | 1951 - 2007 |
 | [AIMERG](https://essd.copernicus.org/articles/12/1525/2020/) | 融合IMERG和APHRODITE的亚洲高精度降水产品 | 0.1-degree | 亚洲 | half-hourly | 2000 - 2015 |
