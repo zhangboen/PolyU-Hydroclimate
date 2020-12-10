@@ -20,3 +20,4 @@
 | 简称 | 名称 | 空间分辨率 | 覆盖范围 | 时间分辨率 | 时间跨度 |
 | --- | --- | --- | --- | --- | --- |
 | -- | [AVHRR地表温度产品](https://essd.copernicus.org/articles/12/3247/2020/) | 0.05-degree | 全球 | daily/monthly | 1981 - 2000 |
+| [EM-DAT](https://public.emdat.be/) | 全球灾害数据集 | -- | 全球 | -- | 1900 - present |
