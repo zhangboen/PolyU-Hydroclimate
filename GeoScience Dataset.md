@@ -23,3 +23,4 @@
 | --- | --- | --- | --- | --- | --- |
 | -- | [AVHRR地表温度产品](https://essd.copernicus.org/articles/12/3247/2020/) | 0.05-degree | 全球 | daily/monthly | 1981 - 2000 |
 | [EM-DAT](https://public.emdat.be/) | 全球灾害数据集 | -- | 全球 | -- | 1900 - present |
+| -- | [全球人口和GDP栅格数据](http://www.cger.nies.go.jp/gcp/population-and-gdp.html) | 0.5-degree | 全球 | 每10年 | 1980 - 2100 |
