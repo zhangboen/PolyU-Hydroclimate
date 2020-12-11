@@ -2,6 +2,8 @@
 ## 1. 降水产品
 | 简称 | 名称 | 空间分辨率 | 覆盖范围 | 时间分辨率 | 时间跨度 |
 | --- | --- | --- | --- | --- | --- |
+| [CRU](https://crudata.uea.ac.uk/cru/data/hrg/) | Climatic Research Unit | 50-km | 全球 | monthly | 1901 - 2019 | 
+| [GPCC](https://climatedataguide.ucar.edu/climate-data/gpcc-global-precipitation-climatology-centre) | Global Precipitation Climatology Centre | 50-km | 全球 | monthly | 1891 -  2018 | 
 | [APHRODITE](https://climatedataguide.ucar.edu/climate-data/aphrodite-asian-precipitation-highly-resolved-observational-data-integration-towards) | 亚洲高精度降水数据 | 25-km | 亚洲 | daily | 1951 - 2007 |
 | [AIMERG](https://essd.copernicus.org/articles/12/1525/2020/) | 融合IMERG和APHRODITE的亚洲高精度降水产品 | 0.1-degree | 亚洲 | half-hourly | 2000 - 2015 |
 | [REGEN](https://hess.copernicus.org/articles/24/919/2020/#section6) | Rainfall Estimates on a Gridded Network | 1-degree | 全球 | daily | 1950 - 2016 |
