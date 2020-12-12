@@ -19,6 +19,7 @@
 | 简称 | 名称 | 空间分辨率 | 覆盖范围 | 时间分辨率 | 时间跨度 |
 | --- | --- | --- | --- | --- | --- |
 | [GRDC](https://www.bafg.de/GRDC/EN/Home/homepage_node.html) | 全球水文监测径流数据 | 站点 | 全球 | daily/monthly | 1919 - present |
+| [GFPLAIN250m](https://www.nature.com/articles/sdata2018309#Sec6) | 全球高精度滩区栅格数据 | 250 m | 全球 | -- | -- |
 ## 3. 其它数据
 | 简称 | 名称 | 空间分辨率 | 覆盖范围 | 时间分辨率 | 时间跨度 |
 | --- | --- | --- | --- | --- | --- |
