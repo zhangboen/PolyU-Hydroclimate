@@ -25,3 +25,4 @@
 | [EM-DAT](https://public.emdat.be/) | 全球灾害数据集 | -- | 全球 | -- | 1900 - present |
 | -- | [全球人口和GDP栅格数据](http://www.cger.nies.go.jp/gcp/population-and-gdp.html) | 0.5-degree | 全球 | 每10年 | 1980 - 2100 |
 | -- | [NASA全球人口projection栅格数据](https://sedac.ciesin.columbia.edu/search/data?facets=theme%3Apopulation&title=population+base+year+and+projection) | 0.125-degree/1-km | 全球 | 每10年 | 2000 - 2100 |
+| -- | [MODIS全球城市边界2001-2018](https://www.sciencedirect.com/science/article/pii/S0303243420308989?dgcid=raven_sd_via_email) | 250 m | 全球 | -- | 2001 - 2018 |
