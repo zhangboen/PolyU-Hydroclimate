@@ -4,7 +4,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [CRU](https://crudata.uea.ac.uk/cru/data/hrg/) | Climatic Research Unit | 50-km | 全球 | monthly | 1901 - 2019 | 
 | [GPCC](https://climatedataguide.ucar.edu/climate-data/gpcc-global-precipitation-climatology-centre) | Global Precipitation Climatology Centre | 50-km | 全球 | monthly | 1891 -  2018 | 
-| [APHRODITEsssss](https://climatedataguide.ucar.edu/climate-data/aphrodite-asian-precipitation-highly-resolved-observational-data-integration-towards) | 亚洲高精度降水数据 | 25-km | 亚洲 | daily | 1951 - 2007 |
+| [APHRODITE](https://climatedataguide.ucar.edu/climate-data/aphrodite-asian-precipitation-highly-resolved-observational-data-integration-towards) | 亚洲高精度降水数据 | 25-km | 亚洲 | daily | 1951 - 2007 |
 | [GPM-IMERG](https://disc.gsfc.nasa.gov/datasets/GPM_3IMERGHH_06/summary?keywords=imerg) | 全球降水计划(GPM)多卫星降水联合反演(IMERG)降水产品 | 0.1-degree | 全球 | half-hourly | 2000 - present |
 | [AIMERG](https://essd.copernicus.org/articles/12/1525/2020/) | 融合IMERG和APHRODITE的亚洲高精度降水产品 | 0.1-degree | 亚洲 | half-hourly | 2000 - 2015 |
 | [REGEN](https://hess.copernicus.org/articles/24/919/2020/#section6) | Rainfall Estimates on a Gridded Network | 1-degree | 全球 | daily | 1950 - 2016 |
