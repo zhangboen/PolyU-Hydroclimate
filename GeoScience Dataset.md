@@ -1,6 +1,6 @@
 # 水文气候研究相关数据汇总，持续更新中
 ## 1. 降水产品
-|  简称  | 名称 | 空间分辨率 | 覆盖范围 | 时间分辨率 | 时间跨度 |
+|   简称   | 名称 | 空间分辨率 | 覆盖范围 | 时间分辨率 | 时间跨度 |
 | --- | --- | --- | --- | --- | --- |
 | [CRU](https://crudata.uea.ac.uk/cru/data/hrg/) | Climatic Research Unit | 50-km | 全球 | monthly | 1901 - 2019 | 
 | [GPCC](https://climatedataguide.ucar.edu/climate-data/gpcc-global-precipitation-climatology-centre) | Global Precipitation Climatology Centre | 50-km | 全球 | monthly | 1891 -  2018 | 
