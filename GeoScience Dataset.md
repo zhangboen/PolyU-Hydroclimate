@@ -42,4 +42,3 @@
 | -- | [NASA全球人口projection栅格数据](https://sedac.ciesin.columbia.edu/search/data?facets=theme%3Apopulation&title=population+base+year+and+projection) | 0.125-degree/1-km | 全球 | 每10年 | 2000 - 2100 |
 | -- | [MODIS全球城市边界2001-2018](https://www.sciencedirect.com/science/article/pii/S0303243420308989?dgcid=raven_sd_via_email) | 250 m | 全球 | -- | 2001 - 2018 |
 | -- | [陆地系统的人为改造程度(human modification)](https://essd.copernicus.org/articles/12/1953/2020/essd-12-1953-2020.html) | 0.09 km2 | 全球 | 1990/2000/2010/2015 | 1990 - 2017 |
-| -- | [陆地系统的人为改造程度(human modification)](https://essd.copernicus.org/articles/12/1953/2020/essd-12-1953-2020.html) | 0.09 km2 | 全球 | 1990/2000/2010/2015 | 1990 - 2017 |
