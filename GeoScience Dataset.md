@@ -23,7 +23,7 @@
 | [GFPLAIN250m](https://www.nature.com/articles/sdata2018309#Sec6) | 全球滩区高精度栅格数据 | 250 m | 全球 | -- | -- |
 | -- | [全球取水量数据](https://figshare.com/articles/dataset/A_dataset_of_distributed_global_water_withdrawal_from_1960_to_2017/10012559/1) | 区域 | 全球 | yearly | 1960 - 2017 |
 | -- | [基于卫星的全球地表水储量变化数据](https://essd.copernicus.org/articles/12/1141/2020/essd-12-1141-2020.html) | -- | 全球347个湖泊和水库 | monthly | 1992 - 2018 |
-| GRACE-REC | [基于GRACE的陆地水储量历史重建数据](https://essd.copernicus.org/articles/11/1153/2019/) | 0.5-degree | 全球 | daily/monthly |  1901 - present | 
+| [GRACE-REC](https://essd.copernicus.org/articles/11/1153/2019/) | 基于GRACE的陆地水储量历史重建数据 | 0.5-degree | 全球 | daily/monthly |  1901 - present | 
 ## 3. 其它数据
 | 简称 | 名称 | 空间分辨率 | 覆盖范围 | 时间分辨率 | 时间跨度 |
 | --- | --- | --- | --- | --- | --- |
