@@ -1,4 +1,4 @@
-# 水文气候研究相关数据汇总，持续更新中
+# 水文气候研究相关开源数据汇总，持续更新中
 ## 1. 降水产品
 |   简称   | 名称 | 空间分辨率 | 覆盖范围 | 时间分辨率 | 时间跨度 |
 | --- | --- | --- | --- | --- | --- |
@@ -31,3 +31,4 @@
 | -- | [全球人口和GDP栅格数据](http://www.cger.nies.go.jp/gcp/population-and-gdp.html) | 0.5-degree | 全球 | 每10年 | 1980 - 2100 |
 | -- | [NASA全球人口projection栅格数据](https://sedac.ciesin.columbia.edu/search/data?facets=theme%3Apopulation&title=population+base+year+and+projection) | 0.125-degree/1-km | 全球 | 每10年 | 2000 - 2100 |
 | -- | [MODIS全球城市边界2001-2018](https://www.sciencedirect.com/science/article/pii/S0303243420308989?dgcid=raven_sd_via_email) | 250 m | 全球 | -- | 2001 - 2018 |
+| -- | [陆地系统的认为改造程度(human modification)](https://essd.copernicus.org/articles/12/1953/2020/essd-12-1953-2020.html) | 0.09 km2 | 全球 | 1990/2000/2010/2015 | 1990 - 2017 |
