@@ -19,6 +19,7 @@
 | 简称 | 名称 | 空间分辨率 | 覆盖范围 | 时间分辨率 | 时间跨度 |
 | --- | --- | --- | --- | --- | --- |
 | [GRDC](https://www.bafg.de/GRDC/EN/Home/homepage_node.html) | 全球水文监测径流数据 | 站点 | 全球 | daily/monthly | 1919 - present |
+| [GRUN](https://figshare.com/articles/dataset/GRUN_Global_Runoff_Reconstruction/9228176) | 全球月径流量重建栅格数据 | 0.5-degree | 全球 | monthly | 1902 - 2014 |
 | [GFPLAIN250m](https://www.nature.com/articles/sdata2018309#Sec6) | 全球滩区高精度栅格数据 | 250 m | 全球 | -- | -- |
 | -- | [全球取水量数据](https://figshare.com/articles/dataset/A_dataset_of_distributed_global_water_withdrawal_from_1960_to_2017/10012559/1) | 区域 | 全球 | yearly | 1960 - 2017 |
 ## 3. 其它数据
