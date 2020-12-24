@@ -24,7 +24,16 @@
 | -- | [全球取水量数据](https://figshare.com/articles/dataset/A_dataset_of_distributed_global_water_withdrawal_from_1960_to_2017/10012559/1) | 区域 | 全球 | yearly | 1960 - 2017 |
 | -- | [基于卫星的全球地表水储量变化数据](https://essd.copernicus.org/articles/12/1141/2020/essd-12-1141-2020.html) | -- | 全球347个湖泊和水库 | monthly | 1992 - 2018 |
 | [GRACE-REC](https://essd.copernicus.org/articles/11/1153/2019/) | 基于GRACE的陆地水储量历史重建数据 | 0.5-degree | 全球 | daily/monthly |  1901 - present | 
-## 3. 其它数据
+## 3. 海岸洪水相关数据
+| 简称 | 名称 | 空间分辨率 | 覆盖范围 | 时间分辨率 | 时间跨度 |
+| --- | --- | --- | --- | --- | --- |
+| [UHSLC](https://uhslc.soest.hawaii.edu/data/?rq) | University of Hawaii Sea Level Center | 站点 | 全球 | -- | -- | 
+| [GESLA](https://www.gesla.org/) | Global Extreme Sea Level Analysis | 站点 | 全球 | -- | -- |
+| [GTSR](https://research.vu.nl/en/datasets/global-tide-and-surge-reanalysis-gtsr) | 基于水动力模式的风暴潮和极端海水位的全球再分析产品 | 海岸5km | 全球 | 10 min | 1979 – 2014 |
+| -- | [欧洲风暴潮和极端海水位的历史模拟和未来情景预估](https://data.jrc.ec.europa.eu/collection/LISCOAST) | 25 km | 欧洲 | 3 hour | 1970 - 2000/RCP4.5/RCP8.5 |
+| [PSMSL](https://www.psmsl.org/) | Permanent Service for Mean Sea Level全球月均和年均海水位 | 近2000个站点 | 全球 | -- | -- |
+| [IBTrACS](https://www.ncdc.noaa.gov/ibtracs/) | 全球热带气旋路径数据 | -- | 全球 | -- | 1980 - present |
+## 4. 其它数据
 | 简称 | 名称 | 空间分辨率 | 覆盖范围 | 时间分辨率 | 时间跨度 |
 | --- | --- | --- | --- | --- | --- |
 | -- | [AVHRR地表温度产品](https://essd.copernicus.org/articles/12/3247/2020/) | 0.05-degree | 全球 | daily/monthly | 1981 - 2000 |
