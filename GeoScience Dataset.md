@@ -24,6 +24,7 @@
 | -- | [全球取水量数据](https://figshare.com/articles/dataset/A_dataset_of_distributed_global_water_withdrawal_from_1960_to_2017/10012559/1) | 区域 | 全球 | yearly | 1960 - 2017 |
 | -- | [基于卫星的全球地表水储量变化数据](https://essd.copernicus.org/articles/12/1141/2020/essd-12-1141-2020.html) | -- | 全球347个湖泊和水库 | monthly | 1992 - 2018 |
 | [GRACE-REC](https://essd.copernicus.org/articles/11/1153/2019/) | 基于GRACE的陆地水储量历史重建数据 | 0.5-degree | 全球 | daily/monthly |  1901 - present | 
+| -- | [基于Landsat全球地表水遥感制图](https://global-surface-water.appspot.com/download) | 30 m | 全球 | -- | 1984 - 2019 |
 ## 3. 海岸洪水相关数据
 | 简称 | 名称 | 空间分辨率 | 覆盖范围 | 时间分辨率 | 时间跨度 |
 | --- | --- | --- | --- | --- | --- |
@@ -33,7 +34,7 @@
 | -- | [欧洲风暴潮和极端海水位的历史模拟和未来情景预估](https://data.jrc.ec.europa.eu/collection/LISCOAST) | 25 km | 欧洲 | 3 hour | 1970 - 2000/RCP4.5/RCP8.5 |
 | [PSMSL](https://www.psmsl.org/) | Permanent Service for Mean Sea Level全球月均和年均海水位 | 近2000个站点 | 全球 | -- | -- |
 | [IBTrACS](https://www.ncdc.noaa.gov/ibtracs/) | 全球热带气旋路径数据 | -- | 全球 | -- | 1980 - present |
-| -- | [全球长期海岸线演化](https://data.jrc.ec.europa.eu/dataset/944f6d9b-2fbf-422e-ae3e-4b3aa391ed48/resource/d38db907-c6e6-47d1-ad5d-a344ea3e024b) | -- | 全球 | -- | 1984 - 2015 |
+| Global Surface Water (GSW) | [全球长期海岸线演化](https://data.jrc.ec.europa.eu/dataset/944f6d9b-2fbf-422e-ae3e-4b3aa391ed48/resource/d38db907-c6e6-47d1-ad5d-a344ea3e024b) | -- | 全球 | -- | 1984 - 2015 |
 ## 4. 其它数据
 | 简称 | 名称 | 空间分辨率 | 覆盖范围 | 时间分辨率 | 时间跨度 |
 | --- | --- | --- | --- | --- | --- |
