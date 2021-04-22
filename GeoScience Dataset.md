@@ -45,4 +45,4 @@
 | -- | [MODIS全球城市边界2001-2018](https://www.sciencedirect.com/science/article/pii/S0303243420308989?dgcid=raven_sd_via_email) | 250 m | 全球 | -- | 2001 - 2018 |
 | -- | [陆地系统的人为改造程度(human modification)](https://essd.copernicus.org/articles/12/1953/2020/essd-12-1953-2020.html) | 0.09 km2 | 全球 | 1990/2000/2010/2015 | 1990 - 2017 |
 | -- | [基于Landsat的中国不透水地表与绿色空间](https://essd.copernicus.org/articles/13/63/2021/) | 30 m | 中国 | 2000/2005/2010/2015/2018 | 2000 - 2018 |
-| -- | [基于Landsat的中国土地利用数据](https://essd.copernicus.org/preprints/essd-2021-7/) | 30 m | 中国 | -- | 1990 - 2019 |
+| -- | [基于Landsat的中国土地利用数据](https://essd.copernicus.org/preprints/essd-2021-7/) | 30 m | 中国 | Annual | 1990 - 2019 |
