@@ -15,6 +15,7 @@
 | [ERA5-Land](https://hess.copernicus.org/articles/24/919/2020/#section6) | ERA5降水再分析数据的陆地产品 | 0.1-degree | 全球 | hourly | 1981 - present |
 | [WorldClim2](http://www.worldclim.com/version2) | 全球地表高分辨率气候数据 | 1-km | 全球 | monthly | 1970 - 2000 |
 | -- | [CRU统计降尺度中国高精度月降水产品](https://zenodo.org/record/3114194#.Xx09-jr7SUk) | 1-km | 中国 | monthly | 1901 - 2017 |
+| [HydroGFD3.0](https://essd.copernicus.org/articles/13/1531/2021/essd-13-1531-2021.html) | 全球25km daily 降水和最大最小气温 | 0.25-degree | 全球 | daily | 1979 - 2019 |
 ## 2. 水文数据
 | 简称 | 名称 | 空间分辨率 | 覆盖范围 | 时间分辨率 | 时间跨度 |
 | --- | --- | --- | --- | --- | --- |
